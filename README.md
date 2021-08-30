@@ -1,7 +1,7 @@
 ## Amulya Reddy Baddam
 ### 🙋‍ Roles: Full Stack Developer, Designer, Architrect
 ### 💻 Languages : Java, HTML, Javascript
-### 🧠 Interested Topics: Bigdata, Data Mining, Hadoop
+### 🧠 Interested Topics: Bigdata, Data Mining, Data Hadoop
 ### 👍 I'm good at JavaScript, HTML
 ### 📧 Email: amulya555reddy@gmail.com
 
