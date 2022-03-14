@@ -1,7 +1,8 @@
 ## Amulya Reddy Baddam
-### 🙋‍ Roles: Full Stack Developer, Data Analyst, Devops Engineer
-### 💻 Languages : Java, HTML, Javascript
-### 🧠 Interested Topics: Bigdata, Data Mining, Data Hadoop
-### 👍 I'm good at JavaScript, HTML
+### 🙋‍ Roles: Data Engineer/Data Analyst
+### 💻 Technical stuff :
+#### SQL, My-SQL, IBM DB, No SQL(MongoDB), Data Analytics , Spring Boot, Apache Hadoop, Apache Spark, Java Spring Boot,CSS, TypeScript, JSON, Markdown, Java Script, HTML,  Microsoft SQL server
+### 🧠 Acquiring a knowledge of Data Analytics & Engineering
+### 👍 Expertise at Transforming Data!
 ### 📧 Email: amulyareddybaddam@gmail.com
 
